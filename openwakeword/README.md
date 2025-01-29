@@ -8,6 +8,9 @@ Part of the [Year of Voice](https://www.home-assistant.io/blog/2022/12/20/year-o
 
 Requires Home Assistant 2023.9 or later.
 
+Voice Assistant PE support from 2024.12
+
+
 [aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
